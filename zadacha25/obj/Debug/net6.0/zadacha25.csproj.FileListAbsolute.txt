@@ -1,0 +1,15 @@
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/zadacha25.csproj.AssemblyReference.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/zadacha25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/zadacha25.AssemblyInfoInputs.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/zadacha25.AssemblyInfo.cs
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/zadacha25.csproj.CoreCompileInputs.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/bin/Debug/net6.0/zadacha25
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/bin/Debug/net6.0/zadacha25.deps.json
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/bin/Debug/net6.0/zadacha25.runtimeconfig.json
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/bin/Debug/net6.0/zadacha25.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/bin/Debug/net6.0/zadacha25.pdb
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/zadacha25.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/refint/zadacha25.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/zadacha25.pdb
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/zadacha25.genruntimeconfig.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework4/zadacha25/obj/Debug/net6.0/ref/zadacha25.dll
